@@ -3,10 +3,10 @@ import heapq
 heap = [20,40,30,40]
 heapq.heapify(heap)
 heapq.heappush(heap,50)
-print(heap)
-
 heapq.heappop(heap)
+largestElement = heapq.nlargest(1,heap)[0]
 print(heap)
+print(largestElement)
 
 heap3 = ["Mary","Caren","Zippy"]
 heapq.heapify(heap3)
