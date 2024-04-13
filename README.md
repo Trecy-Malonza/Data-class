@@ -10,6 +10,7 @@ Efficient Insertion and removal
 
 Efficient Access to Extremal Elements.
 
+
 Applications of Binary 
 
 Binary heaps hold significant importance as they implement sorting and prioritizing algorithms more efficient
