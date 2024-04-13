@@ -1,8 +1,13 @@
 Properties Of Heap
+
 Complete Binary Tree
+
 Heap Property
+
 Parent-child Relationship
+
 Efficient Insertion and removal
+
 Efficient Access to Extremal Elements.
 
 Applications of Binary 
